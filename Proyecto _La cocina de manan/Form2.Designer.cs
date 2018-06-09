@@ -34,6 +34,8 @@
 			this.comboBox1 = new System.Windows.Forms.ComboBox();
 			this.textBox2 = new System.Windows.Forms.TextBox();
 			this.label2 = new System.Windows.Forms.Label();
+			this.monthCalendar1 = new System.Windows.Forms.MonthCalendar();
+			this.webBrowser1 = new System.Windows.Forms.WebBrowser();
 			this.SuspendLayout();
 			// 
 			// label1
@@ -89,11 +91,27 @@
 			this.label2.TabIndex = 5;
 			this.label2.Text = "ojala i se aregle esto";
 			// 
+			// monthCalendar1
+			// 
+			this.monthCalendar1.Location = new System.Drawing.Point(160, 247);
+			this.monthCalendar1.Name = "monthCalendar1";
+			this.monthCalendar1.TabIndex = 6;
+			// 
+			// webBrowser1
+			// 
+			this.webBrowser1.Location = new System.Drawing.Point(505, 81);
+			this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
+			this.webBrowser1.Name = "webBrowser1";
+			this.webBrowser1.Size = new System.Drawing.Size(250, 250);
+			this.webBrowser1.TabIndex = 7;
+			// 
 			// Form2
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(853, 535);
+			this.Controls.Add(this.webBrowser1);
+			this.Controls.Add(this.monthCalendar1);
 			this.Controls.Add(this.label2);
 			this.Controls.Add(this.textBox2);
 			this.Controls.Add(this.comboBox1);
@@ -119,5 +137,7 @@
 		private System.Windows.Forms.ComboBox comboBox1;
 		private System.Windows.Forms.TextBox textBox2;
 		private System.Windows.Forms.Label label2;
+		private System.Windows.Forms.MonthCalendar monthCalendar1;
+		private System.Windows.Forms.WebBrowser webBrowser1;
 	}
 }
