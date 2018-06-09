@@ -21,5 +21,10 @@ namespace Proyecto__La_cocina_de_manan
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
