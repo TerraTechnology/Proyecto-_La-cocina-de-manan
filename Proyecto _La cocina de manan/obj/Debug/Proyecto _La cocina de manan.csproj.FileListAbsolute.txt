@@ -9,3 +9,14 @@ C:\Users\Alexa\source\repos\Proyecto _La cocina de manan\Proyecto _La cocina de 
 C:\Users\Alexa\source\repos\Proyecto _La cocina de manan\Proyecto _La cocina de manan\obj\Debug\Proyecto _La cocina de manan.exe
 C:\Users\Alexa\source\repos\Proyecto _La cocina de manan\Proyecto _La cocina de manan\obj\Debug\Proyecto _La cocina de manan.pdb
 C:\Users\Alexa\source\repos\Proyecto _La cocina de manan\Proyecto _La cocina de manan\obj\Debug\Proyecto__La_cocina_de_manan.Form2.resources
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\bin\Debug\Proyecto _La cocina de manan.exe.config
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\bin\Debug\Proyecto _La cocina de manan.exe
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\bin\Debug\Proyecto _La cocina de manan.pdb
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\obj\Debug\Proyecto _La cocina de manan.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\obj\Debug\Proyecto__La_cocina_de_manan.fm_menuPrincipal.resources
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\obj\Debug\Proyecto__La_cocina_de_manan.Form2.resources
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\obj\Debug\Proyecto__La_cocina_de_manan.Properties.Resources.resources
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\obj\Debug\Proyecto _La cocina de manan.csproj.GenerateResource.cache
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\obj\Debug\Proyecto _La cocina de manan.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\obj\Debug\Proyecto _La cocina de manan.exe
+C:\Users\Enrique\Desktop\popo\Proyecto _La cocina de manan\obj\Debug\Proyecto _La cocina de manan.pdb
