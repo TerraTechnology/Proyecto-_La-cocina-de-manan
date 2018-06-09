@@ -33,6 +33,7 @@
 			this.button1 = new System.Windows.Forms.Button();
 			this.comboBox1 = new System.Windows.Forms.ComboBox();
 			this.textBox2 = new System.Windows.Forms.TextBox();
+			this.label2 = new System.Windows.Forms.Label();
 			this.SuspendLayout();
 			// 
 			// label1
@@ -79,11 +80,21 @@
 			this.textBox2.Size = new System.Drawing.Size(100, 22);
 			this.textBox2.TabIndex = 4;
 			// 
+			// label2
+			// 
+			this.label2.AutoSize = true;
+			this.label2.Location = new System.Drawing.Point(221, 215);
+			this.label2.Name = "label2";
+			this.label2.Size = new System.Drawing.Size(139, 17);
+			this.label2.TabIndex = 5;
+			this.label2.Text = "ojala i se aregle esto";
+			// 
 			// Form2
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(853, 535);
+			this.Controls.Add(this.label2);
 			this.Controls.Add(this.textBox2);
 			this.Controls.Add(this.comboBox1);
 			this.Controls.Add(this.button1);
@@ -107,5 +118,6 @@
 		private System.Windows.Forms.Button button1;
 		private System.Windows.Forms.ComboBox comboBox1;
 		private System.Windows.Forms.TextBox textBox2;
+		private System.Windows.Forms.Label label2;
 	}
 }
