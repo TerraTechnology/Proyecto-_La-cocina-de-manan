@@ -36,6 +36,8 @@
 			this.label2 = new System.Windows.Forms.Label();
 			this.monthCalendar1 = new System.Windows.Forms.MonthCalendar();
 			this.webBrowser1 = new System.Windows.Forms.WebBrowser();
+			this.listBox1 = new System.Windows.Forms.ListBox();
+			this.label3 = new System.Windows.Forms.Label();
 			this.SuspendLayout();
 			// 
 			// label1
@@ -93,7 +95,7 @@
 			// 
 			// monthCalendar1
 			// 
-			this.monthCalendar1.Location = new System.Drawing.Point(160, 247);
+			this.monthCalendar1.Location = new System.Drawing.Point(190, 247);
 			this.monthCalendar1.Name = "monthCalendar1";
 			this.monthCalendar1.TabIndex = 6;
 			// 
@@ -105,11 +107,31 @@
 			this.webBrowser1.Size = new System.Drawing.Size(250, 250);
 			this.webBrowser1.TabIndex = 7;
 			// 
+			// listBox1
+			// 
+			this.listBox1.FormattingEnabled = true;
+			this.listBox1.ItemHeight = 16;
+			this.listBox1.Location = new System.Drawing.Point(249, 108);
+			this.listBox1.Name = "listBox1";
+			this.listBox1.Size = new System.Drawing.Size(120, 84);
+			this.listBox1.TabIndex = 8;
+			// 
+			// label3
+			// 
+			this.label3.AutoSize = true;
+			this.label3.Location = new System.Drawing.Point(208, 42);
+			this.label3.Name = "label3";
+			this.label3.Size = new System.Drawing.Size(126, 17);
+			this.label3.TabIndex = 9;
+			this.label3.Text = "hasta cuando sera";
+			// 
 			// Form2
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(853, 535);
+			this.Controls.Add(this.label3);
+			this.Controls.Add(this.listBox1);
 			this.Controls.Add(this.webBrowser1);
 			this.Controls.Add(this.monthCalendar1);
 			this.Controls.Add(this.label2);
@@ -139,5 +161,7 @@
 		private System.Windows.Forms.Label label2;
 		private System.Windows.Forms.MonthCalendar monthCalendar1;
 		private System.Windows.Forms.WebBrowser webBrowser1;
+		private System.Windows.Forms.ListBox listBox1;
+		private System.Windows.Forms.Label label3;
 	}
 }
